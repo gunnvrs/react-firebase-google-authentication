@@ -336,6 +336,13 @@ background: #F5F5F5;
 border-radius: 19px;
 }
 
+img {
+  border-radius: 50%;
+  position: absolute;
+  left: 1300px;
+  top: 10px;
+}
+
 
 /* ------------------------ main ------------------------------ */
 

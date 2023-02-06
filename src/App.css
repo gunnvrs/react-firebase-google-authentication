@@ -54,9 +54,10 @@ button {
   background-color: white;
   background-repeat: no-repeat;
   background-position: 12px 11px;
-  left: 1080px;
+  left: 880px;
   top: 535px;
   position: absolute;
+  border-radius: 19px;
   
 }
 .login-with-google-btn:hover {
@@ -282,6 +283,57 @@ googlein {
   top: 535px;
   /* box-shadow: 30px 4px 19px rgba(0, 0, 0, 0.25); */
   border-radius: 8px;
+}
+
+googleinname {
+  position: relative;
+  width: 589px;
+  height: 57px;
+  left: 339px;
+  top: 390px;
+  font-family: '-apple-system';
+font-style: italic;
+font-weight: 300;
+font-size: 30px;
+}
+
+googleinemail {
+  position: relative;
+  width: 589px;
+  height: 57px;
+  left: 155px;
+  top: 295px;
+  font-family: '-apple-system';
+font-style: italic;
+font-weight: 300;
+font-size: 30px;
+}
+
+googleemailcover{
+  /* Rectangle 5 */
+
+position: absolute;
+width: 589px;
+height: 57px;
+left: 700px;
+top: 283px;
+
+background: #F5F5F5;
+border-radius: 19px;
+}
+
+
+googlenamecover{
+  /* Rectangle 5 */
+
+position: absolute;
+width: 589px;
+height: 57px;
+left: 700px;
+  top: 380px;
+
+background: #F5F5F5;
+border-radius: 19px;
 }
 
 

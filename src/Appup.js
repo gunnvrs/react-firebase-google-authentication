@@ -7,7 +7,7 @@ import {
   listAll,
   list,
 } from "firebase/storage";
-import { storage } from "./firebase";
+import { storage } from "./Firebase";
 import { v4 } from "uuid";
 
 function App() {
